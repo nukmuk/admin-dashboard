@@ -279,7 +279,7 @@
 	flex-direction: column;
 	gap: 24px;
 	height: min-content;
-	padding: 32px;
+	padding: 36px 36px;
     align-items: start;
 }
 .announcement > .title {
