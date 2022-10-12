@@ -102,7 +102,6 @@
     z-index: 0;
 }
     
-
 .header * {
 	/* border: solid magenta 1px; */
 }
@@ -126,9 +125,10 @@
 	margin-right: 16px;
 }
 
-.search > input:focus {
-	/* outline: 1px solid var(--primary); */
-}
+/* .search > input:focus {
+	outline: 2px solid var(--pink-500);
+    box-shadow: var(--shadow-33);
+} */
 
 .profile-area {
 	display: flex;
